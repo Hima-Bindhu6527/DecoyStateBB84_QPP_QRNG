@@ -1,0 +1,1 @@
+This is a quantum-secured message using BB84 + QRNG + QPP encryption with dynamic per-block seeding.
